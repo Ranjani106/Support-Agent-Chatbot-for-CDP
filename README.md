@@ -73,5 +73,5 @@ License
 This project is licensed under the MIT License.
 
 Contributors
-Sriram: [ranjanivaratharajan20@gmail.com]
+Ranjani: [ranjanivaratharajan20@gmail.com]
 Feel free to contribute by submitting pull requests or reporting issues!
